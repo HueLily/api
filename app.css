@@ -97,7 +97,7 @@ head {
   }
 
   .hero {
-    background-image: url('WiCS.JPG');
+    
     background-position: top left;
     background-size: cover;
     height: 80vh;
